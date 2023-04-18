@@ -1,4 +1,4 @@
-![MasterHead](https://ennovision.co.uk/wp-content/uploads/2017/02/artificial-intelligence_new1.jpg)
+![MasterHead](https://mitsloan.mit.edu/sites/default/files/styles/article_header/public/2021-04/machine-learning_2.jpg)
 <h1 align="center">Hi 👋, I'm Bala Vignesh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bax25&label=Profile%20views&color=0e75b6&style=flat" alt="bax25" /> </p>
 <img align="right" alt="Coding" width="300" src="https://thumbs.gfycat.com/AshamedWeightyDachshund-max-1mb.gif">
